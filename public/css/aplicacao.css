@@ -1,0 +1,219 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Author     : Demontie, vivianny
+*/
+
+.separacao_div{
+    margin-top: 10px;
+}
+#div_toolbar .page-header{
+    margin-top: 0px;
+    border-bottom:  yellow solid 10px;
+}
+
+/* Barra de busca do local onde pessoa está no index */
+
+.bordaIndex #demo{
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color:#FFFF00;
+	  border-radius: 10px;
+    text-align-last: center;
+}
+
+.container .mapa{
+  margin-top: 40px;
+  margin-left: 325px;
+  margin-right: 300px;
+}
+
+.buscaBudega{
+  margin-top: 20px;
+  margin-left: 300px;
+  margin-right: 300px;
+  background-color:#FFFF00;
+  border-radius: 15px;
+  text-align-last: center;
+}
+
+/*Login*/
+
+.loginOuCadastro{
+  margin-left: 250px;
+}
+
+
+/* Rodapé */
+
+.container-fluid .page-header2{
+  border-bottom:  yellow solid 10px;
+  margin-top: 80px;
+}
+
+.container-fluid .row{
+  margin-left: 210px;
+}
+
+/* Lista das budegas mais proximas */
+
+.container-fluid #listaBudega .page-header2{
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+.container-fluid #listaBudega .lista_budega{
+  margin-top: 8px;
+  text-align-last: center;
+}
+
+.formLogin {
+  margin-top: 80px;
+  margin-left: 450px;
+}
+
+.buttonLogin .button{
+  width:70px;
+  margin-top: 10px;
+  margin-left: 130px;
+  background-color:#32CD32;
+}
+
+.formLogin .input{
+  border: 2px solid #A9A9A9;
+  border-radius: 4px;
+}
+
+.container-fluid .rodape{
+  margin-top: 10px;
+  margin-left: 560px;
+}
+
+#rodape{
+  margin-top: 10px;
+  margin-left: 500px;
+}
+
+.totalCarrinho{
+  margin-top: 10px;
+  margin-left: 950px;
+}
+
+.buttonConfirmarCompra{
+  width:140px;
+  height:35px;
+  margin-top: 20px;
+  margin-left: 1100px;
+  background-color:#32CD32;
+}
+
+.cupomDesconto{
+  margin-top: 9px;
+  margin-left: 940px;
+}
+
+/* Estilo para busca de produtos */
+
+.espaco{
+  margin-top: 7px;
+}
+
+.arredonda_borda_amarela{
+  border-color: #FFF98B;
+  border-radius: 15px;
+}
+
+.botao_busca{
+  border-color: #FFF98B
+}
+.fundo_amarelo{
+  background-color: #FFF98B
+}
+.fa-search{
+  color: #fff
+}
+.botao_categorias{
+  background-color: #FFF98B;
+  color: black;
+  text-align: right;
+  border: none;
+  font-weight: bold;
+}
+.div_fixa_imagem{
+  padding: 18px 1px 0px 13px;
+  width: 130px;
+  height: 150px;
+  border: #FFFDDF solid medium;
+}
+.tamanho_imagem{
+  height: 100px;
+}
+.tamanho_texto{
+  max-width: 130px;
+}
+.botao_adiciona_produto{
+  position: absolute;
+  margin-top: 80px;
+  margin-left: -35px;
+  color: #99E265;
+}
+.preco_produto{
+  font-size: 20px;
+  font-weight: bold;
+}
+.cor_verde{
+  color: #99E265;
+}
+
+.badge{
+  background-color: #F39E80;
+}
+.botao_ativo{
+  background-color: #ffe4c4 !important;
+}
+
+/* Tela de detalhar compra*/
+
+.dadosCompra{
+  margin-top: 100px;
+  margin-left: 800px;
+  margin-right: 200px;
+}
+
+.botaoFinalizar{
+  margin-left: 900px;
+  margin-top: 50px;
+}
+
+/* Tela de sucesso*/
+
+.sucessoCompra{
+  margin-top: 150px;
+  margin-left: 450px;
+}
+
+.sucessoCompraButton{
+  width:140px;
+  height:35px;
+  margin-top: 10px;
+  margin-left: 500px;
+  background-color:#32CD32;
+}
+
+#entrar_cadastrar{
+
+  margin-top: 15px;
+}
+
+.fa-trash-o {
+  font-size:20px;
+}
+
+/* cadastro de taxa */
+.container #cadastroTaxa, #cadastroCupom{
+  margin-top: 80px;
+}
